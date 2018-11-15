@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/UseSecondaryAxes/MainPage.xaml) (VB: [MainPage.xaml](./VB/UseSecondaryAxes/MainPage.xaml))
+<!-- default file list end -->
 # How to use secondary axes
 
 
